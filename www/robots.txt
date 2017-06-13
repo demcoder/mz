@@ -1,0 +1,19 @@
+#Запреты
+User-agent: *
+Disallow: /admin
+Disallow: /cgi-*
+Disallow: /includes/
+Disallow: /core/
+Disallow: /assets
+Disallow: /search
+Disallow: /error
+Disallow: /ajax/
+Disallow: /get/
+
+#Разрешения
+#
+
+#Карта сайта формата XML
+Sitemap: http://microzaim.info/sitemap-pages.xml
+#YANDEX хост
+Host: microzaim.info
