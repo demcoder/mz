@@ -6,12 +6,12 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>MicrozaimInfo</name>
+    <name>Микрозайм Онлайн</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Подбор онлайн микрозаймов в России
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="admin@microzaim.info" href="http://Microzaim.info">
+        Microzaim.info
     </author>
     <content src="index.html" />
     <access origin="*" />
